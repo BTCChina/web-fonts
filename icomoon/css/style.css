@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Futures-iconfont';
-	src:url('../fonts/Futures-iconfont.eot?-js1ih2');
-	src:url('../fonts/Futures-iconfont.eot?#iefix-js1ih2') format('embedded-opentype'),
-		url('../fonts/Futures-iconfont.ttf?-js1ih2') format('truetype'),
-		url('../fonts/Futures-iconfont.woff?-js1ih2') format('woff'),
-		url('../fonts/Futures-iconfont.svg?-js1ih2#Futures-iconfont') format('svg');
+	src:url('../fonts/Futures-iconfont.eot?-u9cx6');
+	src:url('../fonts/Futures-iconfont.eot?#iefix-u9cx6') format('embedded-opentype'),
+		url('../fonts/Futures-iconfont.ttf?-u9cx6') format('truetype'),
+		url('../fonts/Futures-iconfont.woff?-u9cx6') format('woff'),
+		url('../fonts/Futures-iconfont.svg?-u9cx6#Futures-iconfont') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -22,6 +22,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Futuresicon_up:before {
+.icon-Futuresicon_down:before {
 	content: "\e600";
+}
+.icon-Futuresicon_up:before {
+	content: "\e601";
 }
