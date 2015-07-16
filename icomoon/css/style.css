@@ -22,9 +22,49 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Futuresicon_down:before {
+.icon-Futuresicon-06 .path1:before {
 	content: "\e600";
+	color: rgb(216, 216, 216);
+}
+.icon-Futuresicon-06 .path2:before {
+	content: "\e601";
+	margin-left: -1em;
+	color: rgb(22, 135, 30);
+}
+.icon-Futuresicon-06 .path3:before {
+	content: "\e602";
+	margin-left: -1em;
+	color: rgb(22, 135, 30);
+}
+.icon-Futuresicon-04:before {
+	content: "\e603";
+}
+.icon-Futuresicon-05 .path1:before {
+	content: "\e604";
+	color: rgb(196, 33, 44);
+}
+.icon-Futuresicon-05 .path2:before {
+	content: "\e607";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-Futuresicon-07 .path1:before {
+	content: "\e608";
+	color: rgb(216, 216, 216);
+}
+.icon-Futuresicon-07 .path2:before {
+	content: "\e609";
+	margin-left: -1em;
+	color: rgb(172, 32, 31);
+}
+.icon-Futuresicon-07 .path3:before {
+	content: "\e60a";
+	margin-left: -1em;
+	color: rgb(172, 32, 31);
+}
+.icon-Futuresicon_down:before {
+	content: "\e605";
 }
 .icon-Futuresicon_up:before {
-	content: "\e601";
+	content: "\e606";
 }
