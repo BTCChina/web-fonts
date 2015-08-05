@@ -1,16 +1,17 @@
 @font-face {
 	font-family: 'Futures-iconfont';
-	src:url('../fonts/Futures-iconfont.eot?-u9cx6');
-	src:url('../fonts/Futures-iconfont.eot?#iefix-u9cx6') format('embedded-opentype'),
-		url('../fonts/Futures-iconfont.ttf?-u9cx6') format('truetype'),
-		url('../fonts/Futures-iconfont.woff?-u9cx6') format('woff'),
-		url('../fonts/Futures-iconfont.svg?-u9cx6#Futures-iconfont') format('svg');
+	src:url('../fonts/Futures-iconfont.eot?vk09cm');
+	src:url('../fonts/Futures-iconfont.eot?#iefixvk09cm') format('embedded-opentype'),
+		url('../fonts/Futures-iconfont.ttf?vk09cm') format('truetype'),
+		url('../fonts/Futures-iconfont.woff?vk09cm') format('woff'),
+		url('../fonts/Futures-iconfont.svg?vk09cm#Futures-iconfont') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
 	font-family: 'Futures-iconfont';
+	speak: none;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
@@ -22,49 +23,85 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Futuresicon-06 .path1:before {
+.icon-Disconnectserver .path1:before {
 	content: "\e600";
+	color: rgb(219, 40, 53);
+}
+.icon-Disconnectserver .path2:before {
+	content: "\e601";
+	margin-left: -1.857421875em;
+	color: rgb(219, 40, 53);
+}
+.icon-Disconnectserver .path3:before {
+	content: "\e602";
+	margin-left: -1.857421875em;
+	color: rgb(45, 44, 44);
+}
+.icon-Disconnectserver .path4:before {
+	content: "\e603";
+	margin-left: -1.857421875em;
+	color: rgb(45, 44, 44);
+}
+.icon-Connectedserver .path1:before {
+	content: "\e604";
+	color: rgb(22, 168, 57);
+}
+.icon-Connectedserver .path2:before {
+	content: "\e605";
+	margin-left: -1.857421875em;
+	color: rgb(45, 44, 44);
+}
+.icon-Connectedserver .path3:before {
+	content: "\e606";
+	margin-left: -1.857421875em;
+	color: rgb(45, 44, 44);
+}
+.icon-Futuresicon_close:before {
+	content: "\e60b";
+}
+.icon-Futuresicon-06 .path1:before {
+	content: "\e607";
 	color: rgb(216, 216, 216);
 }
 .icon-Futuresicon-06 .path2:before {
-	content: "\e601";
+	content: "\e60e";
 	margin-left: -1em;
 	color: rgb(22, 135, 30);
 }
 .icon-Futuresicon-06 .path3:before {
-	content: "\e602";
+	content: "\e60f";
 	margin-left: -1em;
 	color: rgb(22, 135, 30);
 }
 .icon-Futuresicon-04:before {
-	content: "\e603";
+	content: "\e608";
 }
 .icon-Futuresicon-05 .path1:before {
-	content: "\e604";
+	content: "\e609";
 	color: rgb(196, 33, 44);
 }
 .icon-Futuresicon-05 .path2:before {
-	content: "\e607";
+	content: "\e610";
 	margin-left: -1em;
 	color: rgb(255, 255, 255);
 }
 .icon-Futuresicon-07 .path1:before {
-	content: "\e608";
+	content: "\e60a";
 	color: rgb(216, 216, 216);
 }
 .icon-Futuresicon-07 .path2:before {
-	content: "\e609";
+	content: "\e611";
 	margin-left: -1em;
 	color: rgb(172, 32, 31);
 }
 .icon-Futuresicon-07 .path3:before {
-	content: "\e60a";
+	content: "\e612";
 	margin-left: -1em;
 	color: rgb(172, 32, 31);
 }
 .icon-Futuresicon_down:before {
-	content: "\e605";
+	content: "\e60c";
 }
 .icon-Futuresicon_up:before {
-	content: "\e606";
+	content: "\e60d";
 }
