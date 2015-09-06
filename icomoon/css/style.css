@@ -23,38 +23,17 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Disconnectserver .path1:before {
+.icon-Futuresicon-page:before {
 	content: "\e600";
-	color: rgb(219, 40, 53);
 }
-.icon-Disconnectserver .path2:before {
+.icon-Futuresicon-pages:before {
 	content: "\e601";
-	margin-left: -1.857421875em;
-	color: rgb(219, 40, 53);
 }
-.icon-Disconnectserver .path3:before {
-	content: "\e602";
-	margin-left: -1.857421875em;
-	color: rgb(45, 44, 44);
+.icon-Futuresicon-Price:before {
+	content: "\e613";
 }
-.icon-Disconnectserver .path4:before {
-	content: "\e603";
-	margin-left: -1.857421875em;
-	color: rgb(45, 44, 44);
-}
-.icon-Connectedserver .path1:before {
-	content: "\e604";
-	color: rgb(22, 168, 57);
-}
-.icon-Connectedserver .path2:before {
-	content: "\e605";
-	margin-left: -1.857421875em;
-	color: rgb(45, 44, 44);
-}
-.icon-Connectedserver .path3:before {
-	content: "\e606";
-	margin-left: -1.857421875em;
-	color: rgb(45, 44, 44);
+.icon-Futuresicon-Quantity:before {
+	content: "\e614";
 }
 .icon-Futuresicon_close:before {
 	content: "\e60b";
