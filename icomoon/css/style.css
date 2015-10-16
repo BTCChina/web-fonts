@@ -23,6 +23,12 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-Futuresicon-pagenext:before {
+	content: "\e804";
+}
+.icon-Futuresicon-pagesend:before {
+	content: "\e805";
+}
 .icon-Futuresicon-next:before {
 	content: "\e800";
 }
