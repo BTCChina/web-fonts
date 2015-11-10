@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('../fonts/Futures-iconfont.eot?9xiqo8');
-	src:url('../fonts/Futures-iconfont.eot?9xiqo8#iefix') format('embedded-opentype'),
-	url('../fonts/Futures-iconfont.ttf?9xiqo8') format('truetype'),
-	url('../fonts/Futures-iconfont.woff?9xiqo8') format('woff'),
-	url('../fonts/Futures-iconfont.svg?9xiqo8#icomoon') format('svg');
+	src:url('../fonts/icomoon.eot?5lejqc');
+	src:url('../fonts/icomoon.eot?5lejqc#iefix') format('embedded-opentype'),
+	url('../fonts/icomoon.ttf?5lejqc') format('truetype'),
+	url('../fonts/icomoon.woff?5lejqc') format('woff'),
+	url('../fonts/icomoon.svg?5lejqc#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,63 +23,46 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Futuresicon-pages:before {
+.icon-Futuresicon-previous:before {
 	content: "\e900";
 }
-.icon-Futuresicon-previous:before {
+.icon-Futuresicon-Price:before {
 	content: "\e901";
 }
-.icon-Futuresicon-Price:before {
+.icon-Futuresicon-right:before {
 	content: "\e902";
 }
-.icon-Futuresicon-Quantity:before {
+.icon-Futuresicon-wrong:before {
 	content: "\e903";
 }
-.icon-Futuresicon-right:before {
+.icon-Futuresicon-next:before {
 	content: "\e904";
 }
-.icon-Futuresicon-wrong:before {
+.icon-Futuresicon-pagenext:before {
 	content: "\e905";
 }
-.icon-Futuresicon-07 .path1:before {
+.icon-Futuresicon-page:before {
 	content: "\e906";
-	color: rgb(216, 216, 216);
 }
-.icon-Futuresicon-07 .path2:before {
+.icon-Futuresicon-pagesend:before {
 	content: "\e907";
-	margin-left: -1em;
-	color: rgb(172, 32, 31);
 }
-.icon-Futuresicon-07 .path3:before {
+.icon-Futuresicon-pages:before {
 	content: "\e908";
-	margin-left: -1em;
-	color: rgb(172, 32, 31);
 }
 .icon-Futuresicon-20:before {
 	content: "\e909";
 }
-.icon-Futuresicon-next:before {
+.icon-Futuresicon-04:before {
 	content: "\e90a";
 }
-.icon-Futuresicon-pagenext:before {
+.icon-Futuresicon_close:before {
 	content: "\e90b";
 }
-.icon-Futuresicon-page:before {
+.icon-Futuresicon_down:before {
 	content: "\e90c";
 }
-.icon-Futuresicon-pagesend:before {
-	content: "\e90d";
-}
-.icon-Futuresicon_close:before {
-	content: "\e90e";
-}
-.icon-Futuresicon_down:before {
-	content: "\e90f";
-}
 .icon-Futuresicon_up:before {
-	content: "\e910";
-}
-.icon-Futuresicon-04:before {
-	content: "\e911";
+	content: "\e90d";
 }
 
