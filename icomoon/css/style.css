@@ -23,6 +23,15 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-pro_exchange_icon_delivery:before {
+	content: "\e910";
+}
+.icon-pro_exchange_icon_down:before {
+	content: "\e911";
+}
+.icon-pro_exchange_icon_up:before {
+	content: "\e912";
+}
 .icon-Futuresicon_sort-hightolow:before {
 	content: "\e90e";
 }

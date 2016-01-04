@@ -23,4 +23,7 @@
 <glyph unicode="&#xe90d;" glyph-name="Futuresicon_up" d="M512 906.688l-451.648-522.688h259.648v-384h384v384h259.648z" />
 <glyph unicode="&#xe90e;" glyph-name="Futuresicon_sort-hightolow" horiz-adv-x="574" d="M95.424 320.768l180.992-181.056 13.248-12.736 13.248 12.736 181.056 181.056-47.296 45.248-118.976-117.056v582.016h-64v-582.016l-115.072 117.056z" />
 <glyph unicode="&#xe90f;" glyph-name="Futuresicon_sort-lowtohigh" horiz-adv-x="574" d="M483.968 620.224l-181.056 181.056-13.248 12.736-13.248-12.736-180.992-181.056 43.2-45.248 115.072 117.056v-565.056h64v565.056l118.976-117.056z" />
+<glyph unicode="&#xe910;" glyph-name="pro_exchange_icon_delivery" horiz-adv-x="1537" d="M1432.768 458.688l-438.656 438.656-97.472-97.472 286.528-286.528h-1054.528v-128h1054.528l-286.528-286.528 97.472-97.472 438.656 438.592-9.408 9.408z" />
+<glyph unicode="&#xe911;" glyph-name="pro_exchange_icon_down" d="M42.112 833.344l478.912-774.592 478.848 774.592z" />
+<glyph unicode="&#xe912;" glyph-name="pro_exchange_icon_up" d="M999.872 65.344l-478.848 774.592-478.912-774.592z" />
 </font></defs></svg>
