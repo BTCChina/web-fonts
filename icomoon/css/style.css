@@ -23,6 +23,12 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-Futuresicon-33:before {
+	content: "\e913";
+}
+.icon-Futuresicon-34:before {
+	content: "\e914";
+}
 .icon-pro_exchange_icon_delivery:before {
 	content: "\e910";
 }
@@ -80,4 +86,3 @@
 .icon-Futuresicon_up:before {
 	content: "\e90d";
 }
-
