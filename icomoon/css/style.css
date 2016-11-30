@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:    url('../fonts/icomoon.eot?nttcek');
-	src:    url('../fonts/icomoon.eot?nttcek#iefix') format('embedded-opentype'),
-	url('../fonts/icomoon.ttf?nttcek') format('truetype'),
-	url('../fonts/icomoon.woff?nttcek') format('woff'),
-	url('../fonts/icomoon.svg?nttcek#icomoon') format('svg');
+	src:    url('../fonts/icomoon.eot?kh3hj2');
+	src:    url('../fonts/icomoon.eot?kh3hj2#iefix') format('embedded-opentype'),
+	url('../fonts/icomoon.ttf?kh3hj2') format('truetype'),
+	url('../fonts/icomoon.woff?kh3hj2') format('woff'),
+	url('../fonts/icomoon.svg?kh3hj2#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,7 +23,12 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
+.icon-icon_spotusd_btc:before {
+	content: "\e91c";
+}
+.icon-icon_spotusd_usd:before {
+	content: "\e91d";
+}
 .icon-Futures-icon-copy-41:before {
 	content: "\e91a";
 }
